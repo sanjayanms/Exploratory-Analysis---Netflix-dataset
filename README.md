@@ -76,10 +76,10 @@ The dataset contains listings of all movies and TV shows available on Netflix as
 1. Clone the repository:
 ```bash
 git clone https://github.com/sanjayanms/Exploratory-Analysis---Netflix-dataset
-cd Netflix-analysis
+cd Exploratory-Analysis---Netflix-dataset
 
 2. Install required packages:
 pip install pandas numpy networkx scikit-learn matplotlib python-louvain
 
 3. Run the analysis:
-jupyter notebook Netflix_analysis.ipynb
+jupyter notebook Netflix\ analysis.ipynb
