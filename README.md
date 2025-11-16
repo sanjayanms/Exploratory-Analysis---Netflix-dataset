@@ -65,7 +65,7 @@ The dataset contains listings of all movies and TV shows available on Netflix as
 - Visualized trends using Matplotlib line graphs
 - Identified strategic shifts in content focus over time
 
-- 
+  
 ## 🚀 Getting Started
 
 ### Prerequisites
